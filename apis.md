@@ -5,7 +5,7 @@ description: This is a repository of constant contact APIs, self-contained as a 
   operations.
 image: http://template.streamdata.gallery/assets/constant-contact.png
 created: "2018-02-24"
-modified: "2018-06-25"
+modified: "2018-06-26"
 url: http://constant-contact.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
