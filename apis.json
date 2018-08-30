@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Constant Contact",
+	"description": "This is a repository of constant contact APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/constant-contact.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://constant-contact.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Constant Contact",
+			"x-api-slug": "constant-contact",
+			"description": "With Constant Contact, you can create effective email marketing and other online marketing campaigns to meet your business goals. Start your FREE trial today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/171-constant-contact.jpg",
+			"humanURL": "http://blogs.constantcontact.com",
+			"baseURL": "https://api.constantcontact.com//v2",
+			"tags": "Constant Contact",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/constant-contact/master/_listings/constant-contact/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Constant Contact",
+	"include": [
+		{
+			"name": "Constant Contact",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/constant-contact/master/_listings/constant-contact/apis.yaml"
+		}
+	]
+}
